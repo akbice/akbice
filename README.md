@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+🧠 I'm just starting to learn code!	
+⚡Any tips would be helpful
 <!--
 **akbice/akbice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
